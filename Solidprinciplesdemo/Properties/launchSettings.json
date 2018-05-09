@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Solidprinciplesdemo": {
+      "commandName": "Project",
+      "commandLineArgs": "Circle"
+    }
+  }
+}
